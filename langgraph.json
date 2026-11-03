@@ -1,0 +1,9 @@
+{
+    "dependencies": [
+        "."
+    ],
+    "graphs": {
+        "agent": "./src/lcasimov/agente_banco.py:agente_banco"
+    },
+    "env": ".env"
+}
